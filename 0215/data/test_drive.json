@@ -1,0 +1,11 @@
+
+[
+{"name":"김강쥐","tel_num":"1045675555","smscheck":"수신안함","email":"puppy@puppy.com","region":"마포","car":"소나타","car_s":"casper","date":"2023-05-06 00:00:00"},
+{"name":"김강쥐","tel_num":"1045675555","smscheck":"수신안함","email":"puppy@puppy.com","region":"마포","car":"소나타","car_s":"casper","date":"2023-05-06 00:00:00"},
+{"name":"나나콘","tel_num":"1044446666","smscheck":"수신안함","email":"nana@nana.com","region":"마포","car":"K5","car_s":"casper","date":"2025-06-04 00:00:00"},
+{"name":"고객명","tel_num":"1039992888","smscheck":"수신함","email":"jjj@test.com","region":"구로","car":"K5","car_s":"차","date":"2023-05-06 00:00:00"},
+{"name":"강병영영병","tel_num":"1000111111","smscheck":"수신안함","email":"rkdquddud@quddud.rkd","region":"양재","car":"K5","car_s":"없습니덩","date":"2023-02-09 00:00:00"},
+{"name":"명지애","tel_num":"1057914202","smscheck":"수신안함","email":"jiaeyamm@naver.com","region":"마포","car":"K5","car_s":"룰루랄라","date":"2022-03-10 00:00:00"},
+{"name":"이영희","tel_num":"1012345678","smscheck":"수신함","email":"dd@naver.com","region":"강남","car":"K5","car_s":"모닝","date":"2023-02-10 00:00:00"}
+]
+
